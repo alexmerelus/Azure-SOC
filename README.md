@@ -13,3 +13,5 @@ The metrics shown are:
 - SecurityAlert (Log Analytics Alerts Triggered)
 - SecurityIncident (Incidents created by Sentinel)
 - AzureNetworkAnalytics_CL (Malicious Flows allowed into our honeynet)
+
+### [Part 1: Setting up Resources](https://github.com/alexmerelus/Azure-Resources#azure-resources)

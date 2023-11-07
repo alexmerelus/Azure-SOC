@@ -15,3 +15,5 @@ The metrics shown are:
 - AzureNetworkAnalytics_CL (Malicious Flows allowed into our honeynet)
 
 ### [Part 1: Setting up Resources](https://github.com/alexmerelus/Azure-Resources#azure-resources)
+### [Part 2: Microsoft Sentinel SIEM](https://github.com/alexmerelus/Part-2---Microsoft-Sentinel-SIEM-)
+### [Part 3: Secure Cloud Configuration](https://github.com/alexmerelus/Secure-Cloud-Configuration-)
